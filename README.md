@@ -20,3 +20,5 @@ Each activity comes with detailed instructions to guide you through the setup an
 If you encounter any challenges or have suggestions for improvement, feel free to open an issue or submit a pull request. Your feedback is valuable and can help enhance the quality of the projects and activities for other users.
 
 Happy networking!
+
+<a class="github-button" href="https://github.com/Carson2001/Packet-Tracer-Projects/subscription" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-eye" data-size="large" aria-label="Watch Carson2001/Packet-Tracer-Projects on GitHub">Watch</a>
