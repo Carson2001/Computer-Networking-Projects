@@ -22,3 +22,4 @@ If you encounter any challenges or have suggestions for improvement, feel free t
 Happy networking!
 
 <a class="github-button" href="https://github.com/Carson2001/Packet-Tracer-Projects/subscription" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-eye" data-size="large" aria-label="Watch Carson2001/Packet-Tracer-Projects on GitHub">Watch</a>
+<a class="github-button" href="https://github.com/Carson2001/Packet-Tracer-Projects" data-color-scheme="no-preference: light; light: light; dark: dark_dimmed;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Carson2001/Packet-Tracer-Projects on GitHub">Star</a>
