@@ -8,7 +8,7 @@ Below is a detailed walkthrough of the WAN Topology Configuration project, inclu
 
 ### Step 1: Topology
 
-![Topology Diagram](topology.png)
+![topology](https://github.com/user-attachments/assets/deed087a-40eb-4977-8da8-81acddb16807)
 
 This step involves understanding and setting up the topology of the network. The topology defines how different nodes and devices are arranged and interconnected in the network to support communication.
 
@@ -56,7 +56,7 @@ Configure a static route on Router 2 to complete the routing setup and facilitat
 
 ### Step 9: Successful Ping
 
-![Successful Ping Result](yes-ping.png)
+![yes-ping](https://github.com/user-attachments/assets/b91c6143-fafc-487b-acf2-689dce5a2096)
 
 The final step shows a successful ping from PC 1 to PC 2, confirming that the static routes were configured correctly.
 
