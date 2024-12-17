@@ -1,8 +1,8 @@
-# Networking Projects
+# WAN Topology Project
 
-Explore the projects below:
+Project Overview: This hands-on project is designed to teach participants how to set up a Wide Area Network (WAN) using Cisco Packet Tracer, focusing specifically on the foundational skills of network configuration. Through step-by-step instructions, you will learn to use Cisco IOS commands to configure network devices, set up interfaces, implement static routing, and establish reliable connections between two separate LANs.***This project is for educational purposes only***:
 
-## WAN Topology Configuration
+## Topology Configuration
 
 Below is a detailed walkthrough of the WAN Topology Configuration project, including images and videos to guide you through each step.
 
