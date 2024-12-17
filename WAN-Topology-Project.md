@@ -20,7 +20,7 @@ In this step, you will configure Router 1 to establish the initial settings and 
 
 ### Step 3: Configure Router 2
 
-![Configuring Router 2](config-r2.mp4)
+https://github.com/user-attachments/assets/dc6a8693-3e7e-4f69-8dbd-6e56da512851
 
 Configure Router 2 to complete the initial setup and ensure it is ready for network operations.
 
