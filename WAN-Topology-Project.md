@@ -26,31 +26,31 @@ Configure Router 2 to complete the initial setup and ensure it is ready for netw
 
 ### Step 4: Configure PC 1
 
-![Configuring PC 1](config-pc1.mp4)
+https://github.com/user-attachments/assets/de1fcff5-0412-424f-8e79-b7fcca0e62a3
 
 Set up the network configuration for PC 1, ensuring it has the correct IP settings for communication.
 
 ### Step 5: Configure PC 2
 
-![Configuring PC 2](config-pc2.mp4)
+https://github.com/user-attachments/assets/94f81820-a510-4789-ac3c-edf415861d2f
 
 Configure PC 2 to finalize its network setup with appropriate IP settings.
 
 ### Step 6: Attempt to ping PC 2 from PC 1
 
-![No ping result](no-ping.mp4)
+https://github.com/user-attachments/assets/1e7333f5-a0d2-45d9-9521-96e3b9108b03
 
 This step demonstrates an initial ping attempt from PC 1 to PC 2, which should show connectivity issues without proper routing.
 
 ### Step 7: Configure Static Route on Router 1
 
-![Setting static route on Router 1](static-route-r1.mp4)
+https://github.com/user-attachments/assets/b35f40e9-6795-4465-b7ca-cc591ad9f067
 
 Set up a static route on Router 1 to enable communication between networks.
 
 ### Step 8: Configure Static Route on Router 2
 
-![Setting static route on Router 2](static-route-r2.mp4)
+https://github.com/user-attachments/assets/3b0f68d7-b69c-4b59-a9a8-2ed0e01fe988
 
 Configure a static route on Router 2 to complete the routing setup and facilitate network connectivity.
 
@@ -60,4 +60,4 @@ Configure a static route on Router 2 to complete the routing setup and facilitat
 
 The final step shows a successful ping from PC 1 to PC 2, confirming that the static routes were configured correctly.
 
-[Back to Home](index.html)
+
