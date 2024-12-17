@@ -1,5 +1,5 @@
 # Packet-Tracer-Projects
-Welcome! This repository is dedicated to providing Packet Tracer projects and activities for individuals looking to hone their skills in network configuration and cyber security. As this repository grows, you'll find a variety of exercises here to challenge yourself and improve your understanding of networking concepts and security practices.
+Welcome! This repository is dedicated to providing Packet Tracer projects and activities for individuals looking to improve their skills in network configuration security. As this repository grows, you'll find a variety of exercises here to challenge yourself and improve your understanding of networking concepts and security practices. ***These projects are not affiliated with any company and are strictly for educational purposes.***
 
 ## About Packet Tracer: 
 Cisco Packet Tracer is a powerful network simulation tool that allows users to experiment with network behavior and test configurations in a virtual environment. It's an excellent tool for learning networking concepts, designing networks, and practicing configuration tasks without the need for physical hardware.
@@ -18,8 +18,6 @@ Each activity comes with detailed instructions to guide you through the setup an
 
 ## Share Your Experience: 
 If you encounter any challenges or have suggestions for improvement, feel free to open an issue or submit a pull request. Your feedback is valuable and can help enhance the quality of the projects and activities for other users.
-
-Happy networking!
 
 <a class="github-button" href="https://github.com/Carson2001/Packet-Tracer-Projects/subscription" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-eye" data-size="large" aria-label="Watch Carson2001/Packet-Tracer-Projects on GitHub">Watch</a>
 
