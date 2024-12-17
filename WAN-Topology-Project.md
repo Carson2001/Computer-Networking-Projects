@@ -14,7 +14,7 @@ This step involves understanding and setting up the topology of the network. The
 
 ### Step 2: Configure Router 1
 
-[![Configuring Router 1](config-r1.mp4)](https://github.com/Carson2001/Packet-Tracer-Projects/blob/main/config-r1.mp4)
+https://github.com/user-attachments/assets/e3fb3e9d-3cd7-490d-bf09-963e59f6dcf3
 
 In this step, you will configure Router 1 to establish the initial settings and prepare it for connectivity.
 
