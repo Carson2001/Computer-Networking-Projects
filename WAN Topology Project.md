@@ -7,6 +7,15 @@ This hands-on project is designed to teach participants how to set up a Wide Are
 
 Below is a detailed walkthrough of the WAN Topology Configuration project, including images and videos to guide you through each step.
 
+| Device | Interface | Network   | IP Address  |
+|--------|-----------|-----------|-------------|
+| R1     | g0/0      | LAN 1     | 192.168.1.1 |
+| R1     | g0/1      | WAN Link  | 10.0.0.1    |
+| R2     | g0/1      | LAN 2     | 172.16.5.1  |
+| R2     | g0/0      | WAN Link  | 10.0.0.2    |
+| PC1    | -         | LAN 1     | 192.168.1.2 |
+| PC2    | -         | LAN 2     | 172.16.5.2  |
+
 ### Step 1: Topology
 
 ![topology](https://github.com/user-attachments/assets/deed087a-40eb-4977-8da8-81acddb16807)
