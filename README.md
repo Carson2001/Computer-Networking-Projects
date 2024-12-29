@@ -1,23 +1,27 @@
-# Packet-Tracer-Projects
-Welcome! This repository is dedicated to providing Packet Tracer projects and activities for individuals looking to improve their skills in network configuration security. As this repository grows, you'll find a variety of exercises here to challenge yourself and improve your understanding of networking concepts and security practices. ***These projects are not affiliated with any company and are strictly for educational purposes.***
+# Computer Networking Labs
 
-## About Packet Tracer: 
-Cisco Packet Tracer is a powerful network simulation tool that allows users to experiment with network behavior and test configurations in a virtual environment. It's an excellent tool for learning networking concepts, designing networks, and practicing configuration tasks without the need for physical hardware.
+Welcome to my Computer Networking Labs repository. This repository showcases my skills in network design and configuration using Cisco Packet Tracer. Each lab is designed to demonstrate practical implementations of LAN and WAN environments, focusing on CLI commands, device configurations, and network topologies.
 
-## Repository Contents:
-Packet Tracer Projects and Activities: This folder contains complete network simulation projects in addition to incomplete activity files designed to mimic real-world scenarios. Each project comes with a set of objectives and challenges to tackle, ranging from basic network setups to complex configurations involving multiple devices and protocols.
+## Overview
 
-## How to Use:
-Download Packet Tracer: If you haven't already, you'll need to download and install Cisco Packet Tracer to work with the projects and activities in this repository. Packet Tracer is available for free from the Cisco Networking Academy website.
+These labs are created with Cisco Packet Tracer and aim to illustrate various networking concepts including routing, switching, and network troubleshooting. The projects cover everything from basic setups to more complex network configurations, providing a hands-on approach to learning network administration.
 
-## Explore the Projects and Activities: 
-Take some time to browse through the projects and activities available in the repository. Choose a project or activity that aligns with your current skill level and interests.
+## Labs Included
 
-## Follow the Instructions: 
-Each activity comes with detailed instructions to guide you through the setup and configuration process. Follow these instructions carefully to complete the tasks and achieve the objectives.
+- **Basic LAN Setups:** Configurations of small office and home office networks with multiple devices.
+- **Advanced WAN Configurations:** Demonstrations of WAN technologies connecting multiple locations.
 
-## Share Your Experience: 
-If you encounter any challenges or have suggestions for improvement, feel free to open an issue or submit a pull request. Your feedback is valuable and can help enhance the quality of the projects and activities for other users.
+## Getting Started
+
+To get started with these labs, you will need to download and install Cisco Packet Tracer. Follow the steps below:
+
+1. Download Cisco Packet Tracer from the [Cisco Networking Academy](https://www.netacad.com/courses/packet-tracer).
+2. Install the software on your computer.
+3. Using the steps in this repository, you can rebuild your own version of these labs. 
+
+## Contributing
+
+Feel free to fork this repository and contribute to expanding the range of labs. If you have suggestions or improvements, please submit a pull request or open an issue.
 
 <a class="github-button" href="https://github.com/Carson2001/Packet-Tracer-Projects/subscription" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-eye" data-size="large" aria-label="Watch Carson2001/Packet-Tracer-Projects on GitHub">Watch</a>
 
