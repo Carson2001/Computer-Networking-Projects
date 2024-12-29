@@ -2,6 +2,10 @@
 
 Welcome to my Computer Networking Labs repository. This repository showcases my skills in network design and configuration using Cisco Packet Tracer. Each lab is designed to demonstrate practical implementations of LAN and WAN environments, focusing on CLI commands, device configurations, and network topologies.
 
+## Disclaimer
+
+*These labs are not affiliated with any company and are strictly for instructional purposes only.*
+
 ## Overview
 
 These labs are created with Cisco Packet Tracer and aim to illustrate various networking concepts including routing, switching, and network troubleshooting. The projects cover everything from basic setups to more complex network configurations, providing a hands-on approach to learning network administration.
